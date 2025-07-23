@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Qotibah</h1>
 <h3 align="center">A passionate Full-stack web & mobile application developer from Jordan</h3>
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=qotibah&label=Profile%20views&color=0e75b6&style=flat" alt="qotibah" />
+</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
